@@ -1,4 +1,4 @@
-Alpha2
+Alpha-Robots
 ======
 
-Code for the Alpha2 Robot, based on the Teensy3.1 processor.
+Code for the Alpha Robots used in SamLabs, based on the Teensy3.1 processor.

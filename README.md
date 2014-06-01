@@ -1,4 +1,4 @@
 Alpha2
 ======
 
-Alpha2 Robot
+Code for the Alpha2 Robot, based on the Teensy3.1 processor.
